@@ -1,0 +1,2 @@
+invalid type: string "Syntax of a Trigger \nCREATE OR REPLACE TRIGGER trigger_name \nBEFORE | AFTER INSERT | UPDATE | DELETE \nON table_name \nFOR EACH ROW \nDECLARE \n   -- variable declarations \nBEGIN \n   -- trigger body \nEND; \n/ \nExplanation \nKeyword \nMeaning \nCREATE TRIGGER \nCreates the trigger \nBEFORE / AFTER \nTime when the trigger executes \nons \nnction \nor%NOTFOUND; 
+PL/SQL Pro
